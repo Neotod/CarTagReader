@@ -1,2 +1,2 @@
 # CarTagReader
-my first project
+This was our university project for Programming class :))
