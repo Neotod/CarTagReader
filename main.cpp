@@ -14,6 +14,8 @@
     ==> we assume our cartag have 3 letters, one dash and 4 numbers.
     ==> you have to use a specific font both in your cartag and your base pictures. we use 'fe_font' in this project.
     ==> resize algorithm is by 'hamfimay', if you don't understand it even with comments, blame her :))
+    
+    in the end: sorry about my English, I'm not very good at, right now :))
 */
 
 #include <iostream>
